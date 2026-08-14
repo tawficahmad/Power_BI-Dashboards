@@ -10,7 +10,7 @@ Explore the dashboards below. Each has its own dedicated README with more detaul
 
 ![Data Jobs DB GIF](/images/project1_page1.png)
 
-** Key Power BI Skills Utilised:**
+**Key Power BI Skills Utilised:**
 * Dashboard Layout and Design
 * Power Query (ETL & Data Shaping)
 * Basic Data Modelling (Table Relationships)
