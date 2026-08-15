@@ -58,6 +58,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
   Designed a focused, user-friendly interface tailored to job seekers, career changers, and job swappers.
 - **💡 Data Analysis & Storytelling**  
   Analysed salary, location, and job-market trends and translated the findings into practical insights.
+  
 [**View Full Project 2 Details (README)**](/Data_Jobs_v2/README.md)
 
 ---
