@@ -8,29 +8,29 @@ Navigating the data job market can feel like a maze with information scattered e
 
 ## Skills Showcased
 
-This project was a journey through key Power BI features. Here's a look at what we mastered:
+This project was a journey through key Power BI features. Here's a look at what is covered:
 
--   **Dashboard Design:** Crafting an intuitive and visually appealing report layout.
--   **Power Query ETL:** Performing data cleaning, shaping and transforming.
--   **Data Modeling:** Building efficient data models with relationships (Star Schema principles).
--   **DAX Fundamentals:** Creating calculations and aggregations to drive key insights.
--   **Visualisations Utilised:** 
-    -   **Core Charts:** Column, Line, Bar and Area charts for comparisons and trends.
-    -   **Map Charts:** for displaying geospatial data.
-    -   **Cards:** to highlight key performance indicators
-    -   **Slicers:** To dynamically filter the report by Job Title.
-    -   **Tables:** for presenting detailed, tabular information.
-    -   **Chart Variety:** selecting from common and uncommon chart types for effective storytelling.
--   **Interactive Features:**
-    -   **Slicers:** Enabling dynamic, user-driven data filtering
-    -   **Buttons and Bookmarks:** for streamlined navigation and managing report views (including Drill-Through).
+- **🎨 Dashboard Design:** Crafting an intuitive and visually appealing report layout.
+- **🔄 Power Query ETL:** Performing data cleaning, shaping and transforming.
+- **🗂️ Data Modeling:** Building efficient data models with relationships (Star Schema principles).
+- **🧮 DAX Fundamentals:** Creating calculations and aggregations to drive key insights.
+- **📊 Visualisations Utilised:**
+  - **📈 Core Charts:** Column, Line, Bar and Area charts for comparisons and trends.
+  - **🗺️ Map Charts:** Displaying geospatial data.
+  - **🎯 Cards:** Highlighting key performance indicators.
+  - **🔍 Slicers:** Dynamically filtering the report by Job Title.
+  - **📋 Tables:** Presenting detailed, tabular information.
+  - **📉 Chart Variety:** Selecting from common and uncommon chart types for effective storytelling.
+- **⚙️ Interactive Features:**
+  - **🎛️ Slicers:** Enabling dynamic, user-driven data filtering.
+  - **🧭 Buttons and Bookmarks:** Streamlining navigation and managing report views, including Drill-Through.
 ---
 
 ## Dashboard Overview
 
 This second iteration consolidates the dashboard into a **single, focused page**, designed to give job seekers the most critical market insights at their fingertips.
 
-![Dashboard Page 1](/images/project2_page1.png) 
+![Dashboard Page 1](/images/Project2_Page1.png) 
 
 This page acts as your concise mission control for the data job market, It showcases the performance indicatiors (KPIs) like the **Job Count, Skills Per Job, Median Yearly Salary and Median Hourly Salary**. You can also quickly see **Skill Popularity** (by job percent or count) and compare **Salaries across different Job Titles**.
 
