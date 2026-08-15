@@ -41,29 +41,21 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 ![Data Jobs Dashboard 2.0](/images/Project2_Page1.png)
 
 **Key Power BI Skills Utilised:**
-## 🛠️ Skills Utilised
 
 - **📊 Power BI**  
   Built an interactive, single-page dashboard to present key trends in the 2024 data job market.
-
 - **🔄 Power Query (ETL)**  
   Cleaned, transformed, and prepared raw job-posting data for analysis and reporting.
-
 - **🗂️ Data Modelling**  
   Structured the dataset and created relationships using **Star Schema principles** for efficient analysis.
-
 - **🧮 DAX**  
   Created measures and calculations to analyse salaries, job counts, and other key market indicators.
-
 - **📈 Data Visualisation**  
   Used bar, column, line, area, map, card, and table visuals to communicate trends and comparisons clearly.
-
 - **🎛️ Interactive Reporting**  
   Implemented **slicers, buttons, bookmarks, and drill-through** to enable dynamic exploration of the data.
-
 - **🎨 Dashboard & UX Design**  
   Designed a focused, user-friendly interface tailored to job seekers, career changers, and job swappers.
-
 - **💡 Data Analysis & Storytelling**  
   Analysed salary, location, and job-market trends and translated the findings into practical insights.
 [**View Full Project 2 Details (README)**](/Data_Jobs_v2/README.md)
