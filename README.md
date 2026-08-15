@@ -11,16 +11,74 @@ Explore the dashboards below. Each has its own dedicated README with more detaul
 ![Data Jobs DB GIF](/images/project1_page1.png)
 
 **Key Power BI Skills Utilised:**
-* Dashboard Layout and Design
-* Power Query (ETL & Data Shaping)
-* Basic Data Modelling (Table Relationships)
-* Implicit Measures and Standard Aggregations
-* Core Charts (Bar, Line, Area, Column)
-* Map Visualisation for Geospatial Data
-* KPI Cards & Detailed Data Tables
-* Interactive Slicers for Filtering
-* Buttons & Bookmarks for Page Navigation
-* Drill Through Functionality
+
+- **🎨 Dashboard Layout & Design**  
+  Designed a clear, intuitive, and visually consistent dashboard layout focused on usability.
+
+- **🔄 Power Query (ETL & Data Shaping)**  
+  Cleaned, transformed, and reshaped raw data to prepare it for analysis and visualisation.
+
+- **🗂️ Data Modelling**  
+  Created and managed table relationships to support accurate analysis across the dataset.
+
+- **🧮 Measures & Aggregations**  
+  Used implicit measures and standard aggregations such as **SUM, AVERAGE, COUNT, and MIN/MAX** to generate insights.
+
+- **📊 Core Data Visualisations**  
+  Used **bar, column, line, and area charts** to compare categories and analyse trends.
+
+- **🗺️ Geospatial Visualisation**  
+  Used map visuals to analyse and present job-market data across different geographical locations.
+
+- **🎯 KPI Cards & Data Tables**  
+  Used cards to highlight key metrics and detailed tables to provide more granular information.
+
+- **🔍 Interactive Slicers**  
+  Added slicers to allow users to dynamically filter and explore dashboard data.
+
+- **🧭 Buttons & Bookmarks**  
+  Used buttons and bookmarks to create intuitive navigation between dashboard views and pages.
+
+- **🔗 Drill-Through**  
+  Implemented drill-through functionality to allow users to move from summary insights to more detailed information.
 
 [**View Full Project 1 Details (README)**](/Data_Jobs_v1/README.md)
 
+
+## Data Jobs Dashboard (V1 - Comprehensive Exploration)
+
+![Data Jobs Dashboard 2.0](/images/project2_page1.png)
+
+**Key Power BI Skills Utilised:**
+## 🛠️ Skills Utilised
+
+- **📊 Power BI**  
+  Built an interactive, single-page dashboard to present key trends in the 2024 data job market.
+
+- **🔄 Power Query (ETL)**  
+  Cleaned, transformed, and prepared raw job-posting data for analysis and reporting.
+
+- **🗂️ Data Modelling**  
+  Structured the dataset and created relationships using **Star Schema principles** for efficient analysis.
+
+- **🧮 DAX**  
+  Created measures and calculations to analyse salaries, job counts, and other key market indicators.
+
+- **📈 Data Visualisation**  
+  Used bar, column, line, area, map, card, and table visuals to communicate trends and comparisons clearly.
+
+- **🎛️ Interactive Reporting**  
+  Implemented **slicers, buttons, bookmarks, and drill-through** to enable dynamic exploration of the data.
+
+- **🎨 Dashboard & UX Design**  
+  Designed a focused, user-friendly interface tailored to job seekers, career changers, and job swappers.
+
+- **💡 Data Analysis & Storytelling**  
+  Analysed salary, location, and job-market trends and translated the findings into practical insights.
+[**View Full Project 2 Details (README)**](/Data_Jobs_v2/README.md)
+
+---
+
+## About this portfolio
+
+Each dashboard lined above has its own detailed `README.md` file within its respective project forlder. These offer deeper insights into the project objectives, data sources, spedific Power BI techniques employed and a closer looj at the dashboard built.
